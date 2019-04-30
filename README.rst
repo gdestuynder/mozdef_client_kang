@@ -1,3 +1,4 @@
+[deprecated, see https://github.com/mozilla/mozdef_client]
 mozdef_client
 =============
 
